@@ -13,4 +13,8 @@ class Cors
       //Headers de la petición
       ->header("Access-Control-Allow-Headers", "X-Requested-With, Content-Type, X-Token-Auth, Authorization"); 
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dbc0cd3184d6dc07709ca7f7378c33c65689c306
